@@ -5,4 +5,4 @@
 //  Created by Stuart Carnie on 5/10/18.
 //
 
-OTHER_CFLAGS = $(inherited) -DHAVE_MAIN -DHAVE_COCOA_METAL -DHAVE_COREAUDIO3
+OTHER_CFLAGS = $(inherited) -DHAVE_MAIN -DHAVE_COCOA_METAL
